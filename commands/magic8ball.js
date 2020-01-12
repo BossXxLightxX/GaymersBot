@@ -30,3 +30,4 @@ module.exports = {
     message.reply(responses[Math.floor(Math.random() * responses.length)]);
   }
 };
+No work
